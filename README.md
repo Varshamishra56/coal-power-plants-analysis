@@ -1,4 +1,4 @@
-Electricity Generation Analysis
+<h>Electricity Generation Analysis</h>
 This Shiny app analyzes electricity generation data from coal power plants in India. It provides interactive visualizations and statistical analysis to understand the trends and factors affecting electricity generation.
 
 Features
