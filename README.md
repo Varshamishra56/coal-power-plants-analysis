@@ -40,8 +40,4 @@ The app uses a dataset from the "Coal Power Plants database_INDIA_FINAL.xlsx" fi
 
 To run the app, ensure you have R and the required libraries installed. Then, execute the code in RStudio or any other R environment.
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
